@@ -1,0 +1,27 @@
+{	
+	"data": [
+	{
+		"name": "Kevin",
+		"hang": 48,
+		"pull": 2,
+		"push": 18,
+		"dip": 29,
+		"sit": 25,
+		"plank": 59,
+		"squat": 39,
+		"weight": 227
+	},
+	{	
+		"name": "Justin",
+		"hang": 60,
+		"pull": 8,
+		"push": 37,
+		"dip": 30,
+		"sit": 22,
+		"plank": 37,
+		"squat": 27,
+		"weight": 135
+
+	}
+		]
+}
